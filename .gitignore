@@ -23,3 +23,7 @@
 *.idb
 *.pdb
 *.exe
+*.VC
+*.db-shm
+*.db-wal
+*.opendb
