@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fimaa\\source\\repos\\hard1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFF700C-63A5-40C9-96FC-17A238BE50DB}|hard1\\hard1.vcxproj|C:\\Users\\fimaa\\source\\repos\\hard1\\hard1\\hard1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEFF700C-63A5-40C9-96FC-17A238BE50DB}|hard1\\hard1.vcxproj|solutionrelative:hard1\\hard1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hard1.cpp",
+              "DocumentMoniker": "C:\\Users\\fimaa\\source\\repos\\hard1\\hard1\\hard1.cpp",
+              "RelativeDocumentMoniker": "hard1\\hard1.cpp",
+              "ToolTip": "C:\\Users\\fimaa\\source\\repos\\hard1\\hard1\\hard1.cpp",
+              "RelativeToolTip": "hard1\\hard1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-09T18:03:03.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
